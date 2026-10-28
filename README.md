@@ -1,7 +1,7 @@
 # Sistema de Inventario de Equipamiento Tecnológico
 Evaluación N° 2 - Lenguaje de Programación Web II
 --------------------------------------------------
-Declaración de Uso de Inteligencia Artificial
+Declaración de Uso de Inteligencia Artificial(Gemini)
 Durante el desarrollo de este proyecto de inventario tecnológico (NestJS, Vue.js y MySQL), se utilizó asistencia de Inteligencia Artificial como herramienta de colaboración y apoyo técnico para:
 
 - La resolución de errores de validación y configuración de rutas.
